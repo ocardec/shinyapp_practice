@@ -1,0 +1,18 @@
+
+# fluidPage(): Creates a responsive web page layout for a Shiny application
+# that automatically adjusts to different screen sizes.
+
+# selectInput(): Generates a dropdown menu for user selection, allowing 
+# the user to choose from predefined options.
+
+# verbatimTextOutput(): Displays text output in a fixed-width font, 
+# often used for printing raw values or summaries.
+
+# tableOutput(): Renders a reactive table in the UI, displaying data frames 
+# or matrices as HTML tables.
+
+# renderPrint(): Processes and renders text-based output (e.g., summaries, 
+# printed objects) reactively in response to user inputs.
+
+# renderTable(): Dynamically generates and displays a table output from a 
+# data frame or matrix, with optional formatting.
