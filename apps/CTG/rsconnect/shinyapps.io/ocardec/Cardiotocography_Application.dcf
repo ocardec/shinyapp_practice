@@ -1,0 +1,12 @@
+name: Cardiotocography_Application
+title: Cardiotocography_Application
+username: ocardec
+account: ocardec
+server: shinyapps.io
+hostUrl: https://api.shinyapps.io/v1
+appId: 14210709
+bundleId: 9923545
+url: https://ocardec.shinyapps.io/Cardiotocography_Application/
+version: 1
+asMultiple: FALSE
+asStatic: FALSE

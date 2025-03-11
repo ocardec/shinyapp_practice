@@ -1,0 +1,12 @@
+name: shinyapp_practice
+title: shinyapp_practice
+username: ocardec
+account: ocardec
+server: shinyapps.io
+hostUrl: https://api.shinyapps.io/v1
+appId: 14210759
+bundleId: 9923677
+url: https://ocardec.shinyapps.io/shinyapp_practice/
+version: 1
+asMultiple: FALSE
+asStatic: FALSE
